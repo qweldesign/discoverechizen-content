@@ -1,14 +1,14 @@
 ---
 title: "空間考 - 展示会・交流会リポート"
-slug: "2023-nakamurayutaka-report"
-img: "/content/images/2023-nakamurayutaka-report/02.jpg"
+slug: "nakamurayutaka-report-2023"
+img: "/content/images/nakamurayutaka-report-2023/02.jpg"
 date: "2023-06-11"
 summary: "はりいしゃの空間が全然違った雰囲気になっています…まさに空間考。古いものを使っているけど前衛的。中村さんの展示には時間軸があります。（ワタリグラススタジオ公式FBより抜粋）"
 author: "wataru-hasegawa, yoko-hasegawa, taigo-ito"
 tags: "people-platform"
 ---
 
-![](/content/images/2023-nakamurayutaka-report/00.jpg)
+![](/content/images/nakamurayutaka-report-2023/00.jpg)
 
 陶芸家の中村豊先生をお招きし、ワタリグラススタジオのガラス作品とコラボレーションした企画の展示会が、はりいしゃにて開催されています。
 
@@ -30,13 +30,13 @@ tags: "people-platform"
 
 ちょうど、中国の五行とされる「木」、「火」、「土」、「金」、「水」の要素がバランスよく存在しているなぁ、という恐れながら僕の個人的な感想を先生に伝えると「その通りなんだ」と仰って頂けました。
 
-![](/content/images/2023-nakamurayutaka-report/01.jpg)
+![](/content/images/nakamurayutaka-report-2023/01.jpg)
 
-![](/content/images/2023-nakamurayutaka-report/02.jpg)
+![](/content/images/nakamurayutaka-report-2023/02.jpg)
 
-![](/content/images/2023-nakamurayutaka-report/03.jpg)
+![](/content/images/nakamurayutaka-report-2023/03.jpg)
 
-![](/content/images/2023-nakamurayutaka-report/04.jpg)
+![](/content/images/nakamurayutaka-report-2023/04.jpg)
 
 入口の行燈には、水の宇宙観を詠んだような詩が、先生自身が手に取った筆によって書かれています。
 
@@ -48,15 +48,15 @@ tags: "people-platform"
 
 （メインの作品である掛け軸は、DMの表紙の写真に使われているものです。）
 
-![](/content/images/2023-nakamurayutaka-report/05.jpg)
+![](/content/images/nakamurayutaka-report-2023/05.jpg)
 
-![](/content/images/2023-nakamurayutaka-report/06.jpg)
+![](/content/images/nakamurayutaka-report-2023/06.jpg)
 
-![](/content/images/2023-nakamurayutaka-report/07.jpg)
+![](/content/images/nakamurayutaka-report-2023/07.jpg)
 
-![](/content/images/2023-nakamurayutaka-report/08.jpg)
+![](/content/images/nakamurayutaka-report-2023/08.jpg)
 
-![](/content/images/2023-nakamurayutaka-report/09.jpg)
+![](/content/images/nakamurayutaka-report-2023/09.jpg)
 
 ※写真撮影: 長谷川渡
 
@@ -77,7 +77,7 @@ tags: "people-platform"
 交流会は、中村先生とワタリグラスの器をふんだんに使った、何とも贅沢な食事会となりました。  
 話題は必然的に、アートとは、陶芸とは、仕事とは、といった核心に迫っていきます。
 
-![](/content/images/2023-nakamurayutaka-report/10.jpg)
+![](/content/images/nakamurayutaka-report-2023/10.jpg)
 
 以下、これも個人的な感想であり、読み手の方には全体の話の一部であると理解していただき、書きたいと思うのですが、僕にとって一番魅力的だったお話は、中村先生の「アートとは何か？」という問いかけから始まりました。
 
@@ -101,7 +101,7 @@ tags: "people-platform"
 お金を稼ぐのは「職業」。「仕事」とは、自分を活かして働くこと。  
 そんな話も伺うことができました。
 
-![](/content/images/2023-nakamurayutaka-report/11.jpg)
+![](/content/images/nakamurayutaka-report-2023/11.jpg)
 
 #### 利便性を捨て、身近なものを大切にする
 
