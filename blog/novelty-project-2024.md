@@ -1,7 +1,7 @@
 ---
 title: "路線バスde越前海岸に行ってみよっさ！"
 slug: "novelty-project-2024"
-img: "/content/images/novelty-project-2024/07.jpg"
+img: "/content/images/novelty-project-2024/06.jpg"
 date: "2024-10-01"
 summary: "福井市と越前海岸盛り上げ隊のコラボ企画です。この機会にぜひ、バスに乗ってゆったり越前海岸へ。"
 author: ""
